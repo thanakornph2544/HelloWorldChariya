@@ -1,0 +1,2 @@
+# HelloWorldChariya
+repository แรกในการเรียน GitHub
